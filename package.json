@@ -1,7 +1,7 @@
 {
     "name": "ewing-media",
     "version": "1.0.0",
-    "description": "ewing.ga in kaynak kodlu sitesi",
+    "description": "acemi portfolyo sitesi",
     "main": "index.js",
     "dependencies": {
         "discord.js": "^12.5.1",
