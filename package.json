@@ -1,0 +1,23 @@
+{
+    "name": "ewing-media",
+    "version": "1.0.0",
+    "description": "ewing.ga in kaynak kodlu sitesi",
+    "main": "index.js",
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "express": "^4.17.1",
+        "express-handlebars": "^5.3.3",
+        "moment": "^2.29.1",
+        "nodemon": "^2.0.12"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "nodemon ."
+    },
+    "keywords": [
+        "ewing",
+        "discordsite"
+    ],
+    "author": "Ewing",
+    "license": "ISC"
+}

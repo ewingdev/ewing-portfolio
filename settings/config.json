@@ -1,0 +1,10 @@
+{
+    "bot": {
+        "token": "İLETİŞİM_SİSTEMİ_BOT_TOKEN",
+        "userid": "İDNİZ"
+    },
+
+    "other": {
+        "sitePort": 80
+    }
+}
